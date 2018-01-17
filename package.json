@@ -1,0 +1,25 @@
+{
+  "name": "simplegame",
+  "version": "0.0.1",
+  "description": "A really simple game, to get to know socket.io and typescript",
+  "main": "./out/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "typescript",
+    "learning"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mamphis/simplegame.git"
+  },
+  "author": "mwacker",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.0",
+    "socket.io": "^2.0.4",
+    "node-static": "^0.7.10"
+  }
+}
